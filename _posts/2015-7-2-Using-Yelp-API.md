@@ -18,7 +18,7 @@ The request will be a jsonp ajax request and for the sake of this tutorial
 i will be using the $http function in angular to create my requests.
 
 Below is the code of a basic request, with the Oauth params included.
-
+<pre>
 ```javascript
 var url = 'http://api.yelp.com/v2/search';
 var method = 'GET';
@@ -34,6 +34,7 @@ vr params = {
 	oauth_version: '1.0',
 	oauth_nonce: randomString(32, '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ')
 };
+</pre>
 var signature = oauthSignature.generate(method, url, params, consumerSecret, tokenSecret, { encodeSignature: true});
 params.oauth_signature = signature;
 $http.jsonp(url, {params:params}).success;
