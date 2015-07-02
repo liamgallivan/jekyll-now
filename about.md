@@ -10,6 +10,9 @@ My interests include Web Dev, Football, Warhammer 40K, and anything that makes m
 ### Contact me
 
 [gallivanster@gmail.com](mailto:gallivanster@gmail.com)
+
 [Linkedin](https://www.linkedin.com/in/liamgallivan)
+
 [Github](https://github.com/liamgallivan)
+
 [Facebook](https://www.facebook.com/liam.gallivan.7)
