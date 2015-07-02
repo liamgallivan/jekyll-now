@@ -19,11 +19,11 @@ paginate: 10
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: liam.gallivan.7
   flickr:
-  github: barryclark/jekyll-now
+  github: liamgallivan
   instagram:
-  linkedin: https://www.linkedin.com/in/liamgallivan
+  linkedin: liamgallivan
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: jekyllrb
